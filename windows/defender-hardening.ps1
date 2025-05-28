@@ -1,0 +1,1 @@
+# Enables ASR, tamper protection
