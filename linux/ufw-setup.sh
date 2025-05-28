@@ -1,0 +1,1 @@
+# Minimal firewall with logging
