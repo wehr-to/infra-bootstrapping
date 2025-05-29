@@ -1,0 +1,1 @@
+# Lint/validate YAML templates
